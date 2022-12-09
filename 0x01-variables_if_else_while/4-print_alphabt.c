@@ -2,12 +2,13 @@
 #include <stdlib.h>
 
 /**
- * main - prints the alphabet in lowercase then in upper
+ * main - returns both alohabets except q and e
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
+
 {
 	char ch = 'a';
 
@@ -17,6 +18,7 @@ int main(void)
 		{
 			putchar(ch);
 		}
+		ch++;
 	}
 	putchar('\n');
 	return (0);
