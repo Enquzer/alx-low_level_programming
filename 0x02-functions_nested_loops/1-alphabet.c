@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _putchar - writes the character c to stdout
- * print_alphabet - print all print_alphabet<F2> in lowercase
+ * print_alphabet - all letters in lowercase
  */
 
 void print_alphabet(void)
