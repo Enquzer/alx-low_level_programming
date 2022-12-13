@@ -1,11 +1,13 @@
 #include "main.h"
 
 /**
- * main - _putchar
- * first question
- * Return: 0
+ * main - Entry point
+ * is first question
+ * Return: Always 0 (SUCCESS)
  */
+
 int main(void)
+
 {
 	_putchar('_');
 	_putchar('p');
@@ -16,5 +18,7 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+	
 	return (0);
+
 }
