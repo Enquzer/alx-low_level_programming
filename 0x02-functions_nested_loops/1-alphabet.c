@@ -1,15 +1,19 @@
 #include "main.h"
 /**
- * _putchar - writes the character c to stdout
- * print_alphabet - all letters in lowercase
+ * print_alphabet - entry point
+ *
+ * Return: 0
  */
 
 void print_alphabet(void)
+
 {
-	char letter;
+	char c = 'a';
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		_putchar(letter);
-
+	while (c <= 'z')
+	{
+		_putchar(c);
+		c++;
+	}
 	_putchar('\n');
 }
