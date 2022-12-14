@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * _putchar - writes the character c to stdout
- * print_alphabet_x10: a function that prints 10 times the alphabet
- * Return: x10 a-z
+ * print_alphabet_x10 - entry point
+ * Return: 0
  */
 
 void print_alphabet_x10(void)
