@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * print_line - a function that draws a straight line in the terminal
@@ -7,7 +7,7 @@ nclude "main.h"
  */
 void print_line(int n)
 {
-	inc c;
+	int c;
 
 	if (n <= 0)
 	{
