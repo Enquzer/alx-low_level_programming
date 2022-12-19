@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strlen - chanes initial.
- * @s: changes
+ * @s: parameter to change.
  * Return: len
  *
  */
@@ -11,8 +11,9 @@ int _strlen(char *s)
 
 	while (*s != '\0')
 	{
-		len = len + 1;
-		s = s + 1;
+		len++
+		s++
 	}
+
 	return (len);
 }
