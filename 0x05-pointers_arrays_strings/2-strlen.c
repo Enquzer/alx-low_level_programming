@@ -1,19 +1,20 @@
 #include "main.h"
 /**
  * _strlen - chanes initial.
- * @s: parameter to change.
- * Return: len
+ * @s: String
+ * Return: longi
  *
  */
 int _strlen(char *s)
 {
-	int len;
+	int longi = 0;
 
 	while (*s != '\0')
 	{
-		len++;
+		longi++;
 		s++;
 	}
 
-	return (len);
+	return (longi);
 }
+
