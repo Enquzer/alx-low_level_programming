@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * main - a program that prints the number of arguments passed into it
- * @argc: argument counter
- * @argv: argument vale
+ * @argc: arment counter
+ * @argv: argent vale
  * Return: 0 (success)
  */
 int main(int argc, char *argv[])

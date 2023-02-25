@@ -3,11 +3,10 @@
 #include <ctype.h>
 /**
  * main - a program that prints minimum number of coins
- * to macke change for an amount of money
  * @argc: arguments counter
  * @argv: argument values
  * Return: 1 if the number of arguments passed is not exact
- * or 0 if otherwise
+ * or 0 if not
  */
 int main(int argc, char **argv)
 {

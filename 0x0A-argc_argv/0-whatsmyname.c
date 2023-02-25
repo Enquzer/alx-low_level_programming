@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * main - a program that prints its name, followed by a new line
- * @argc: argument count
- * @argv: argument value, a string that come after calling function
+ * @argc: argnt count
+ * @argv: argent value, a string that come after calling function
  * Return: 0 (success)
  */
 int main(int argc, char *argv[])

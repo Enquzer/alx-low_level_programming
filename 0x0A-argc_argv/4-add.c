@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 /**
- * main - a program that adds positive nus
+ * main - adds positive nus
  * @argc: argument coun
  * @argv: argument value
  * Return: 0 (success)
