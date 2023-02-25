@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 /**
- * main - a program that prints minimum number of coins
+ * main - prints minimum number of coins
  * @argc: arguments counter
  * @argv: argument values
  * Return: 1 if the number of arguments passed is not exact
