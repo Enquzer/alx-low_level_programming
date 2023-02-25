@@ -2,7 +2,7 @@
 /**
  * main - copies content of a file to another file
  * @argc: number of arguments passed to the program
- * @argv: array fo documents
+ * @argv: array for documents
  * Return: always 0 (success)
  */
 int main(int argc, char *argv[])
